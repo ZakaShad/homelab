@@ -1,0 +1,14 @@
+services:
+  zotero-webdav:
+    image: bytemark/webdav
+    container_name: zotero-webdav
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    environment:
+      - AUTH_TYPE=Digest
+      - USERNAME=zakashad
+      - PASSWORD=${WEBDAV_PASS}
+      - LOCATION=/zotero
+    volumes:
+      - /mnt/host/c/Users/Shady/Zotero:/var/lib/dav
