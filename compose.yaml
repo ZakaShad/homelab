@@ -1,6 +1,4 @@
 include:
-  # - miniserve/docker-compose.yml
-  # - zotero-webdav/docker-compose.yml
   - immich/compose.yaml
   - vaultwarden/compose.yaml
   - anchor/compose.yaml
