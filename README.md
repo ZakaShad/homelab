@@ -5,7 +5,7 @@
 - Tailscale 
 
 ### Installation
-- Install Tailscale (see [Tailscale Docs](https://tailscale.com/docs/install)]
+- Install Tailscale (see [Tailscale Docs](https://tailscale.com/docs/install))
 - `docker compose up -d`
 
 ## Current Services
