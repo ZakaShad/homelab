@@ -1,3 +1,7 @@
 *.env
+!.template.env
+
 vaultwarden/vw-data
 .*/
+
+homepage/config/logs
