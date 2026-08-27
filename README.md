@@ -18,6 +18,6 @@
 - Update `README/Current Services`
 
 ### Future Services
-- [] pihole 
-- [] personal banking services
-- [] cloud drive service
+[] pihole 
+[] personal banking services
+[] cloud drive service
