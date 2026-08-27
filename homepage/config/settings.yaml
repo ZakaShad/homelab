@@ -1,0 +1,16 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/settings/
+
+theme: dark
+
+background: 
+   image: https://wallpapercave.com/wp/wp6819595.jpg
+   opacity: 33
+   #blur: sm
+   saturate: 20
+   brightness: 50
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey

@@ -1,0 +1,10 @@
+- DietPi:
+   - Anchor: 
+      href: http://dietpi:3000
+      icon: synology-note-station.png
+   - Immich:
+      href: http://dietpi:2283
+      icon: immich.png
+   - Vaultwarden:
+      href: http://dietpi:8080
+      icon: vaultwarden-light.png
