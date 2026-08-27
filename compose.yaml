@@ -2,3 +2,4 @@ include:
   - immich/compose.yaml
   - vaultwarden/compose.yaml
   - anchor/compose.yaml
+  - homepage/compose.yaml
