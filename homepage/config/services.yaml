@@ -8,3 +8,6 @@
    - Vaultwarden:
       href: http://dietpi:8080
       icon: vaultwarden-light.png
+   - PiHole:
+      href: http://diepti/admin
+      icon: pi-hole.png
