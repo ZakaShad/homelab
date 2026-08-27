@@ -3,3 +3,4 @@ include:
   - vaultwarden/compose.yaml
   - anchor/compose.yaml
   - homepage/compose.yaml
+  - pihole/compose.yaml

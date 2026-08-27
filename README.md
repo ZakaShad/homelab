@@ -11,6 +11,7 @@
 - `Immich`: For image management
 - `Homepage`: Services dashboard
 - `Vaultwarden`: Password management 
+- `Pi-Hole`: DNS Sinkhole for network-wide ad-blocking  
 
 ## Adding a Service 
 - Update `compose.yaml` 
@@ -18,6 +19,6 @@
 - Update `README/Current Services`
 
 ### Future Services
-- [ ] pihole 
+- [x] pihole 
 - [ ] personal banking services
 - [ ] cloud drive service

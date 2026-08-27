@@ -1,3 +1,6 @@
+.*
+!.gitignore
+
 *.env
 !.template.env
 
@@ -5,3 +8,7 @@ vaultwarden/vw-data
 .*/
 
 homepage/config/logs
+
+pihole/etc-pihole/*
+!pihole/etc-pihole/*.toml
+!pihole/etc-pihole/*.conf
