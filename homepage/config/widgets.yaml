@@ -6,7 +6,10 @@
     cpu: true
     memory: true
     disk: /
+    cputemp: true 
+    tempmax: 85
+    network: true
 
 - search:
     provider: duckduckgo
-    target: _blank
+    showSearchSuggestions: true
