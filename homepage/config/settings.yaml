@@ -4,6 +4,8 @@
 
 theme: dark
 
+bookmarksStyle: icons
+
 background: 
    image: https://wallpapercave.com/wp/wp6819595.jpg
    opacity: 33
