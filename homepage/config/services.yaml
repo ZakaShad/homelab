@@ -11,3 +11,6 @@
    - PiHole:
       href: http://dietpi/admin
       icon: pi-hole.png
+   - Vikunja:
+      href: http://dietpi:3456
+      icon: vikunja.png
