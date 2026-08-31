@@ -27,3 +27,6 @@
       - abbr: YT
         icon: youtube.png
         href: https://youtube.com/
+   - Google Maps:
+      - icon: google-maps.png
+        href: https://maps.google.com/
