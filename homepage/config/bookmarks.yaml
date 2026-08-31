@@ -2,7 +2,7 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/bookmarks
 
-- Developer:
+- Bookmarks:
    - Github:
       - abbr: GH
         icon: github-light.png
@@ -19,14 +19,10 @@
    - Claude:
       - icon: claude-ai.png
         href: https://claude.ai/
-
-- Social:
    - Reddit:
       - abbr: RE
         icon: reddit.png
         href: https://reddit.com/
-
-- Entertainment:
    - YouTube:
       - abbr: YT
         icon: youtube.png
