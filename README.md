@@ -16,6 +16,7 @@
     - Assumes Tailscale is running; currently relies on `tailscale serve` for SSL certs
 - `Pi-Hole`: DNS Sinkhole for network-wide ad-blocking  
     - This assumes Tailscale is running 
+- `Vikunja`: Task management
 
 ## Adding a Service 
 - Update `compose.yaml` 

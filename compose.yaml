@@ -4,3 +4,4 @@ include:
   - anchor/compose.yaml
   - homepage/compose.yaml
   - pihole/compose.yaml
+  - vikunja/compose.yaml
