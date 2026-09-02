@@ -18,6 +18,7 @@
     - This assumes Tailscale is running 
 - `Vikunja`: Task management
 - `Syncthing`: File syncing
+- `Zotero-webdav`: Zotero file sync
 
 ## Adding a Service 
 - Update `compose.yaml` 
