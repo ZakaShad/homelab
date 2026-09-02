@@ -17,6 +17,7 @@
 - `Pi-Hole`: DNS Sinkhole for network-wide ad-blocking  
     - This assumes Tailscale is running 
 - `Vikunja`: Task management
+- `Syncthing`: File syncing
 
 ## Adding a Service 
 - Update `compose.yaml` 

@@ -5,3 +5,4 @@ include:
   - homepage/compose.yaml
   - pihole/compose.yaml
   - vikunja/compose.yaml
+  - syncthing/compose.yaml

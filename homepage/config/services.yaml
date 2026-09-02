@@ -14,3 +14,7 @@
    - Vikunja:
       href: http://dietpi:3456
       icon: vikunja.png
+   - Syncthing:
+      href: http://dietpi:8384/
+      icon: syncthing.png
+      target: _blank
