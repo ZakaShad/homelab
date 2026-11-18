@@ -6,7 +6,7 @@ services:
     ports:
       - "8090:80"
     environment:
-      - AUTH_TYPE=Digest
+      - AUTH_TYPE=Basic
       - USERNAME=zakashad
       - PASSWORD=${WEBDAV_PASS}
       - LOCATION=/zotero
