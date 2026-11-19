@@ -1,6 +1,7 @@
 services:
   vikunja:
     image: vikunja/vikunja:2.5.0
+    container_name: vikunja
     environment:
       VIKUNJA_SERVICE_PUBLICURL: http://dietpi:3456/
       VIKUNJA_SERVICE_SECRET: ${VIKUNJA_SERVICE_SECRET}
