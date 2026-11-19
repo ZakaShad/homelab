@@ -1,0 +1,30 @@
+pihole.homelab.internal {
+    tls internal
+	 redir / /admin/
+    reverse_proxy pihole:80
+}
+
+vault.homelab.internal {
+    tls internal
+    reverse_proxy vaultwarden:80
+}
+
+images.homelab.internal {
+    tls internal
+    reverse_proxy immich_server:2283
+}
+
+notes.homelab.internal {
+	tls internal
+	reverse_proxy anchor:3000
+}
+
+tasks.homelab.internal {
+	tls internal
+	reverse_proxy vikunja:3456
+}
+
+home.homelab.internal {
+	tls internal
+	reverse_proxy homepage:3000	
+}
