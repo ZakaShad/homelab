@@ -7,6 +7,4 @@ services:
       DOMAIN: "https://dietpi.tailb781d6.ts.net"
     volumes:
       - ./vw-data/:/data/
-    ports:
-      - "8080:80"
 
