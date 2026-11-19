@@ -6,6 +6,8 @@
 
 ### Installation
 - Install Tailscale (see [Tailscale Docs](https://tailscale.com/docs/install))
+- Point Tailscale's DNS to the server's tailscale IP and restrict to domain `homelab.internal`
+  - Currently, that would be network > DNS > add nameserver > custom > server ip > restrict to domain > `homelab.internal`
 - `docker compose up -d`
 
 ## Current Services
