@@ -21,6 +21,7 @@
 - `Vikunja`: Task management
 - `Syncthing`: File syncing
 - `Zotero-webdav`: Zotero file sync
+- `Caddy`: Reverse proxy + TLS
 
 ## Adding a Service 
 - Update `compose.yaml` 
@@ -28,7 +29,8 @@
 - Update `README/Current Services`
 
 ### Future Services
+- [ ] BACKUP
 - [x] pihole 
 - [ ] personal banking services
-- [ ] reverse proxy (e.g., Caddy)
-- [ ] cloud drive service
+- [x] reverse proxy (e.g., Caddy)
+- [x] cloud drive service
