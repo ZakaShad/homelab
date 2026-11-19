@@ -4,7 +4,8 @@ services:
     container_name: vaultwarden
     restart: unless-stopped
     environment:
-      DOMAIN: "https://dietpi.tailb781d6.ts.net"
+      #DOMAIN: "https://dietpi.tailb781d6.ts.net"
+       DOMAIN: "https://vault.homelab.internal"
     volumes:
       - ./vw-data/:/data/
 
