@@ -1,6 +1,7 @@
 - Tasks:
    - Vikunja:
       href: https://tasks.homelab.internal
+      siteMonitor: https://tasks.homelab.internal
       icon: vikunja.png
       widgets:
          - type: vikunja
@@ -12,13 +13,17 @@
 - DietPi:
    - Anchor: 
       href: https://notes.homelab.internal
+      siteMonitor: https://notes.homelab.internal
       icon: synology-note-station.png
    - Immich:
       href: https://images.homelab.internal
+      siteMonitor: https://images.homelab.internal
       icon: immich.png
    - Vaultwarden:
       href: https://vault.homelab.internal
+      siteMonitor: https://vault.homelab.internal
       icon: vaultwarden-light.png
    - PiHole:
       href: https://pihole.homelab.internal
+      siteMonitor: https://pihole.homelab.internal
       icon: pi-hole.png
