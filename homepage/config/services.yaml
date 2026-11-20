@@ -1,28 +1,24 @@
 - Tasks:
    - Vikunja:
-      href: http://dietpi:3456
+      href: https://tasks.homelab.internal
       icon: vikunja.png
       widgets:
          - type: vikunja
-           url: http://dietpi:3456
+           url: https://tasks.homelab.internal
            key: tk_b5ab6a0ee0e1f35b3f2f3e37f8362d95ec5b2543
            enableTaskList: true 
            version: 2
 
 - DietPi:
    - Anchor: 
-      href: http://dietpi:3000
+      href: https://notes.homelab.internal
       icon: synology-note-station.png
    - Immich:
-      href: http://dietpi:2283
+      href: https://images.homelab.internal
       icon: immich.png
    - Vaultwarden:
-      href: http://dietpi:8080
+      href: https://vault.homelab.internal
       icon: vaultwarden-light.png
    - PiHole:
-      href: http://dietpi/admin
-      icon: pi-hole.png   
-   - Syncthing:
-      href: http://dietpi:8384/
-      icon: syncthing.png
-      target: _blank
+      href: https://pihole.homelab.internal
+      icon: pi-hole.png
