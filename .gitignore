@@ -10,3 +10,5 @@ vaultwarden/vw-data
 homepage/config/logs
 
 pihole/etc-pihole/*
+
+*.crt
